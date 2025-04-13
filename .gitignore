@@ -1,0 +1,20 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# macOS
+.DS_Store
+
+# Virtual environment
+venv/
+
+# SQLite DB
+*.db
+
+# Flask cache files (optional)
+instance/
+*.sqlite3
+
+# VS Code settings (optional)
+.vscode/
