@@ -2,12 +2,16 @@ __pycache__/
 *.pyc
 *.pyo
 *.pyd
+**/__pycache__/
 
 # macOS
 .DS_Store
 
 # Virtual environment
 venv/
+mailer/.env
+backend/.env
+
 
 # SQLite DB
 *.db
